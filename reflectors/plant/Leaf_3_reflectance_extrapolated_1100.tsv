@@ -1,6 +1,8 @@
-Wavelength	Reflectance	Name
-400	0.121	Leaf 3
-401	0.123	
+# Name	Leaf 3
+# IsDefault	Default 3
+Wavelength	Reflectance	
+400	0.121
+401	0.123
 402	0.123	
 403	0.121	
 404	0.118	

@@ -1,5 +1,7 @@
-Wavelength	Reflectance	Name
-400	0.14	Leaf 2
+# Name	Leaf 2
+# IsDefault	Default 2
+Wavelength	Reflectance	
+400	0.14	
 401	0.14	
 402	0.139	
 403	0.139	
